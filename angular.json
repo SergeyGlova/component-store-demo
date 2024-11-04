@@ -143,5 +143,8 @@
       }
     }
   },
-  "defaultProject": "component-store-demo"
+  "defaultProject": "component-store-demo",
+  "cli": {
+    "analytics": "6b6ff58b-cfc6-415d-a497-a6437b280fd8"
+  }
 }
